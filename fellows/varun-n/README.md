@@ -14,6 +14,8 @@ week's video is linked from its folder README.
 |---|---|
 | 1 (Aug 1-7) | [2026-08-07-progress-starting-over](2026-08-07-progress-starting-over/) |
 | 2 (Aug 8-14) | [2026-08-14-progress-white-background](2026-08-14-progress-white-background/) |
+| 3 (Aug 15-21) | [2026-08-21-progress-captions-that-froze](2026-08-21-progress-captions-that-froze/) |
+| 4 (Aug 22-28) | [2026-08-28-progress-chapter-four-and-4k](2026-08-28-progress-chapter-four-and-4k/) |
 
 Each piece of work gets its own dated,
 lowercase-kebab subfolder — `YYYY-MM-DD-short-slug/` — holding its
