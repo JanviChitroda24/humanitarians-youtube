@@ -8,6 +8,7 @@
 ---
 
 ## Key Links & Evidence
+- **Active Multi-Model Benchmarks:** Testing extended to **Von (`wfzyx/von`)** and **OpenDecision AI (`open-decision-150m`)** on Kaggle GPU across all 4 datasets (NexusRaven, Sentiment, Anthropic, Toxic-Chat), establishing cross-architecture generalization.
 
 - **Video Update (1080p, Bella Voiceover):** [JevPipelineUpdate_PriyaA_Week4.mp4](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week4.mp4)
 - **Google Colab Live GPU Execution Run:** [Interactive Notebook](https://colab.research.google.com/drive/1-f_4z6xMOl80r9vVW6XgYctxtSSg4w3J#scrollTo=FREK-jHrl1_e)
