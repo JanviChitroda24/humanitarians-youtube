@@ -37,6 +37,8 @@ I am reviewing the 38-chapter Medhavy cancer textbook for factual accuracy. The 
 | [2026-09-24-backwards-along-the-tape](2026-09-24-backwards-along-the-tape/) | Sep 24, 2026 | STEM video | Week 5 STEM/AI explainer: automatic differentiation with a from-scratch NumPy autograd engine. |
 | [2026-10-05-chapter-6-review](2026-10-05-chapter-6-review/) | Oct 5, 2026 | Fact-check | Chapter 6 review: 212 sentences, 134 flagged, 16 in scope. A copied error, and the worst defect found in my own evidence document. |
 | [2026-10-05-nothing-errored](2026-10-05-nothing-errored/) | Oct 5, 2026 | STEM video | STEM/AI explainer: how you find out a working model has quietly stopped working, on a simulated year of drift monitoring. |
+| [2026-10-13-chapter-9-review](2026-10-13-chapter-9-review/) | Oct 13, 2026 | Fact-check | Chapter 9 review: 292 sentences, 145 flagged, 30 in scope. A gene count superseded in 2003, UV damage attributed to the wrong lesion, and a correction to my own earlier finding. |
+| [2026-10-13-every-reading-said-fine](2026-10-13-every-reading-said-fine/) | Oct 13, 2026 | STEM video | STEM/AI explainer: why a warning score correct on every single reading still misses a deteriorating patient, measured on my own streaming vitals pipeline. |
 
 ## Voice Choice
 
@@ -51,7 +53,7 @@ I am reviewing the 38-chapter Medhavy cancer textbook for factual accuracy. The 
 - [PR #46](https://github.com/Medhavy/medhavi-cancer/pull/46) on Medhavy/medhavi-cancer, **merged 2 Oct 2026**, with text corrections for Chapters 1, 2, 6, 9, 10, 25 and 30
 - [PR #48](https://github.com/Medhavy/medhavi-cancer/pull/48) on Medhavy/medhavi-cancer, **merged 2 Oct 2026**, with text corrections for Chapter 23
 - Evidence documents for all nine chapters, and workbook update guides for Chapters 1 and 23
-- 12 Brutalist videos (6 STEM/AI explainers + 6 project updates) in both 16:9 and 9:16
+- 14 Brutalist videos (7 STEM/AI explainers + 7 project updates) in both 16:9 and 9:16
 - Video masters on [Google Drive](https://drive.google.com/drive/folders/1V-BZnGQ8a2soQqO7zD2N_atkRd7OYYPp)
 
 ## Next Steps

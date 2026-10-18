@@ -15,6 +15,7 @@
 | Week 5 | Sep 18 - Sep 24, 2026 | 25 | Chapter 30 fact-check review, PR #46 text corrections |
 | Week 6 | Sep 25 - Sep 30, 2026 | 25 | Folder organization, renewal request, ongoing reviews |
 | Week 7 | Oct 1 - Oct 5, 2026 | 25 | Chapters 6, 9, 10 and 13 fact-check reviews; Chapter 6 Brutalist videos |
+| Week 8 | Oct 6 - Oct 13, 2026 | 25 | Chapter 9 Brutalist videos; Every Reading Said Fine explainer built on my own vitals pipeline |
 
 **Minimum required:** 20 hours per reported week.
 
@@ -35,3 +36,5 @@
 | Week 6 | -- | -- | [Renewal request](../renewal-requests/2026-09-25-october-renewal.md), folder organization |
 | Week 7 | [Chapter 6](https://drive.google.com/drive/folders/1V-BZnGQ8a2soQqO7zD2N_atkRd7OYYPp) | [2026-10-05-chapter-6-review/FRICTIONAL.md](../2026-10-05-chapter-6-review/FRICTIONAL.md) | [Chapter 6 review folder](../2026-10-05-chapter-6-review/) |
 | Week 7 | [Nothing Errored](https://drive.google.com/drive/folders/1V-BZnGQ8a2soQqO7zD2N_atkRd7OYYPp) | [2026-10-05-nothing-errored/FRICTIONAL.md](../2026-10-05-nothing-errored/FRICTIONAL.md) | [Nothing Errored folder](../2026-10-05-nothing-errored/) |
+| Week 8 | [Chapter 9](https://drive.google.com/drive/folders/1QAjFH3y4w_j7DfTFjUmGsy05ZVqJIv0r?usp=drive_link) | [2026-10-13-chapter-9-review/FRICTIONAL.md](../2026-10-13-chapter-9-review/FRICTIONAL.md) | [Chapter 9 review folder](../2026-10-13-chapter-9-review/) |
+| Week 8 | [Every Reading Said Fine](https://drive.google.com/drive/folders/1YZ3bLjWZ74sSdhdx4vC9X8MTLOykNk_6?usp=drive_link) | [2026-10-13-every-reading-said-fine/FRICTIONAL.md](../2026-10-13-every-reading-said-fine/FRICTIONAL.md) | [Every Reading Said Fine folder](../2026-10-13-every-reading-said-fine/) |
