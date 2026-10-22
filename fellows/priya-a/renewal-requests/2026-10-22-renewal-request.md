@@ -3,10 +3,10 @@
 **Request Date:** October 22, 2026  
 **Fellow:** Priya Adlakha  
 **Group:** Decision Models & Fine-Tuning Pipeline / Brutalist Team  
-**Institution:** Northeastern University  
+**Institution:** Northeastern University Humanitarian AI 
 **Current Agreement Period:** September 16, 2026 – October 30, 2026  
 **Requested Action:** Agreement Renewal / Continuation (Duration per Humanitarians AI policy and supervisor discretion)  
-**Supervising Faculty / Coordinators:** Prof. Nik Bear Brown, Dev Shah  
+**Supervising Faculty / Coordinators:** Prof. Nik Bear Brown, Dev Shah, Dhruv 
 
 ---
 
