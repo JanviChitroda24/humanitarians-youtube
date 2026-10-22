@@ -1,20 +1,20 @@
-# Month-One Renewal Request — Priya Adlakha
+# Agreement Renewal Request — Priya Adlakha
 
-**Request Date:** October 19, 2026  
+**Request Date:** October 22, 2026  
 **Fellow:** Priya Adlakha  
 **Group:** Decision Models & Fine-Tuning Pipeline / Brutalist Team  
 **Institution:** Northeastern University  
-**Current Agreement Period:** September 16, 2026 – October 16, 2026 (Month 1 Completed)  
-**Requested Renewal Period:** October 17, 2026 – December 17, 2026 (2-Month Extension)  
+**Current Agreement Period:** September 16, 2026 – October 30, 2026  
+**Requested Action:** Agreement Renewal / Continuation (Duration per Humanitarians AI policy and supervisor discretion)  
 **Supervising Faculty / Coordinators:** Prof. Nik Bear Brown, Dev Shah  
 
 ---
 
 ## 1. Executive Summary
 
-Please consider a two-month continuation of my fellowship appointment with Humanitarians AI from **October 17, 2026 to December 17, 2026**.
+Please consider a continuation of my fellowship appointment with Humanitarians AI following the conclusion of my current agreement on **October 30, 2026**. The extension duration and schedule are left entirely to the discretion of the supervising faculty and organizational policy.
 
-During the initial one-month appointment (September 16 – October 16, 2026), I completed 92.0 verified hours across five technical milestones, focusing on architecting, testing, benchmarking, and documenting a generalized, model-agnostic, and data-agnostic fine-tuning pipeline for open-weight bidirectional decision models under RLCD (Reinforcement Learning with Calibrated Decisions — Strategy 1: Negative Brier Score Reward).
+During the initial appointment period through October 30, 2026, I completed 92.0 verified hours across five technical milestones, focusing on architecting, testing, benchmarking, and documenting a generalized, model-agnostic, and data-agnostic fine-tuning pipeline for open-weight bidirectional decision models under RLCD (Reinforcement Learning with Calibrated Decisions — Strategy 1: Negative Brier Score Reward).
 
 Key accomplishments include:
 1. **Large-Scale Enterprise Fine-Tuning (Google Colab T4 GPU):** Fine-tuned `convaiinnovations/laya` (421M ModernBERT Large) on 60,000 tool selection records (`Salesforce/xlam-function-calling-60k`), driving accuracy from $84.85\% \to \mathbf{99.10\%}$ ($+14.25\%$, 11,892/12,000 correct) while collapsing Expected Calibration Error (ECE) from $9.98\% \to \mathbf{0.83\%}$ (sub-1% calibration).
@@ -22,7 +22,7 @@ Key accomplishments include:
 3. **Diagnosing the Calibration Dilemma & Post-Hoc Calibration Engine:** Uncovered the "coin-flip guessing baseline" on subjective tasks (`Tweet Sentiment` and `Anthropic RLHF`) and diagnosed Cross-Entropy overconfidence. Implemented and empirically verified post-hoc calibration strategies (Temperature Scaling and Platt/Vector Scaling), slashing ECE on subjective tasks from $\sim 17.3\%$ down to $\mathbf{4.76\% - 4.92\%}$ on standard CPU in $<1.5$ seconds with zero accuracy degradation.
 4. **Reproducible Pipeline Suite & Documentation:** Authored a complete test suite, consolidated benchmark documentation, published a standalone post-hoc calibration script (`rlcd/run_post_hoc_calibration.py`), submitted PR #232, and generated 1080p Brutalist progress videos for all milestones.
 
-In the upcoming renewal period (Oct 17 – Dec 17, 2026), the objective is to evolve the pipeline from a static factory into an **autonomous, data-aware self-calibrating decision engine** that dynamically detects class imbalances and automatically selects optimal loss regularization and post-hoc calibration strategies.
+In the upcoming renewal period, the objective is to evolve the pipeline from a static factory into an **autonomous, data-aware self-calibrating decision engine** that dynamically detects class imbalances and automatically selects optimal loss regularization and post-hoc calibration strategies.
 
 ---
 
@@ -56,7 +56,7 @@ In the upcoming renewal period (Oct 17 – Dec 17, 2026), the objective is to ev
 
 ## 3. Hours and Weekly Coverage
 
-Total Hours Logged: **92.0 Hours** across five documented weeks (Sept 16 – Oct 16, 2026).
+Total Hours Logged: **92.0 Hours** across five documented weeks through the current appointment.
 
 | Week | Date Range | Hours Logged | Focus Area | Evidence Link |
 | :---: | :---: | :---: | :--- | :---: |
@@ -77,9 +77,9 @@ Total Hours Logged: **92.0 Hours** across five documented weeks (Sept 16 – Oct
 
 ---
 
-## 5. Next Period Research & Engineering Plan (Oct 17 – Dec 17, 2026)
+## 5. Next Period Research & Engineering Plan
 
-During the requested two-month renewal term, the engineering roadmap will focus on:
+During the renewed appointment, the engineering roadmap will focus on:
 1. **Automated Pipeline Introspection:** Developing a self-adapting pipeline layer that autonomously analyzes input data geometry (detecting class imbalance, label ambiguity, or task primitives) and auto-selects appropriate loss functions (Focal Loss vs. Negative Brier) without manual code modification.
 2. **In-Flight & Post-Hoc Calibration Engine Packaging:** Packaging the verified Temperature Scaling and Platt/Vector Scaling modules directly into the primary SDK inference pipeline, allowing downstream enterprise systems to request calibrated probabilities straight out of the box.
 3. **Publishing the Fellowship Technical Article:** Publishing the comprehensive benchmark analysis on Substack/Medium detailing the RLCD decision model fine-tuning architecture and empirical results.
@@ -89,4 +89,4 @@ During the requested two-month renewal term, the engineering roadmap will focus 
 
 ## 6. Official Submission Notice
 
-*Submitted in accordance with the Humanitarians AI Fellowship renewal protocol. Emailed directly to `hr@humanitarians.ai` and `bear@humanitarians.ai` during official Monday–Wednesday business hours prior to agreement expiration. Agreements are subject to faculty approval and are not backdated.*
+*Submitted in accordance with the Humanitarians AI Fellowship renewal protocol. Emailed directly to `hr@humanitarians.ai` and `bear@humanitarians.ai` during official Monday–Wednesday business hours prior to the October 30, 2026 agreement expiration date. Agreements and extension durations are subject to faculty review and approval; agreements are not backdated.*
