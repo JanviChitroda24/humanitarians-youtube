@@ -16,6 +16,10 @@ week's video is linked from its folder README.
 | 2 (Aug 8-14) | [2026-08-14-progress-white-background](2026-08-14-progress-white-background/) |
 | 3 (Aug 15-21) | [2026-08-21-progress-captions-that-froze](2026-08-21-progress-captions-that-froze/) |
 | 4 (Aug 22-28) | [2026-08-28-progress-chapter-four-and-4k](2026-08-28-progress-chapter-four-and-4k/) |
+| 5 (Aug 29-Sep 4) | [2026-09-04-progress-chapter-five-batch](2026-09-04-progress-chapter-five-batch/) |
+| 6 (Sep 5-11) | [2026-09-11-progress-a-holiday-week](2026-09-11-progress-a-holiday-week/) |
+| 7 (Sep 12-18) | [2026-09-18-progress-rejected-and-reframed](2026-09-18-progress-rejected-and-reframed/) |
+| 8 (Sep 19-25) | [2026-09-25-progress-format-approved](2026-09-25-progress-format-approved/) |
 
 Each piece of work gets its own dated,
 lowercase-kebab subfolder — `YYYY-MM-DD-short-slug/` — holding its
