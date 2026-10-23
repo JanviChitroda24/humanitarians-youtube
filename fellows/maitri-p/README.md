@@ -1,7 +1,7 @@
 # Maitri P.
 
 **Role:** AI Software Engineer  
-**Project:** RL_Environment
+**Project:** RL_Environment  
 **GitHub:** [@maitripasale](https://github.com/maitripasale)
 
 ## Work index
