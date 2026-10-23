@@ -4,8 +4,8 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 
 ## Collection snapshot
 
-- Video projects with `beat_sheet.json`: **12**
-- Authored beats represented: **110**
+- Video projects with `beat_sheet.json`: **17**
+- Authored beats represented: **142**
 - Masters present locally: **0**
 - Review cuts present locally: **0**
 - Audio-stage projects: **0**
@@ -35,6 +35,13 @@ This directory is the **Claude for Physics** collection in the Humanitarians You
 | `medhavy-horse-cart-paradox` | How Does Anything Ever Move? | Physics Vol. 1 §5.5 | MEDHAVY | am_michael | 6 | 1:54 | published (YouTube Short) | no | no | no |
 | `medhavy-inertia-puck` | What Really Stops A Sliding Puck? | Physics Vol. 1 §5.2 | MEDHAVY | am_michael | 6 | 1:16 | published (YouTube Short) | no | no | no |
 | `medhavy-weight-vs-mass` | Did She Lose Five-Sixths Of Her Mass? | Physics Vol. 1 §5.4 | MEDHAVY | am_michael | 6 | 1:49 | published (YouTube Short) | no | no | no |
+| `medhavy-centripetal-friction` | What Force Pulls A Car Around A Curve? | Physics Vol. 1 §6.3 | MEDHAVY | am_michael | 8 | 1:41 | published (YouTube Short) | no | no | no |
+| `medhavy-crumple-zones` | Why Is The Crumpling Car Safer? | Physics Vol. 1 §9.2 | MEDHAVY | am_michael | 6 | 1:37 | published (YouTube Short) | no | no | no |
+| `medhavy-bernoulli` | Does Faster Water Mean Higher Pressure? | Physics Vol. 1 §14.6 | MEDHAVY | am_michael | 6 | 1:40 | published (YouTube Short) | no | no | no |
+| `medhavy-beats` | Why Do Two Notes Make A Pulsing Sound? | Physics Vol. 1 §17.6 | MEDHAVY | am_michael | 6 | 1:53 | published (YouTube Short) | no | no | no |
+| `medhavy-ball-still-accelerating` | Is A Ball Still Accelerating At Its Peak? | Physics Vol. 1 §3.3 | MEDHAVY | am_michael | 6 | 1:46 | published (YouTube Short) | no | no | no |
+
+_Five of the Manim scripts (`medhavy-centripetal-friction`, `medhavy-crumple-zones`, `medhavy-bernoulli`, `medhavy-beats`, `medhavy-ball-still-accelerating`) share `medhavy_common.py` in this folder._
 
 ## Repository conventions
 
@@ -49,7 +56,7 @@ _This inventory is generated from the current filesystem and should be refreshed
 
 # Claude For Physics
 
-This folder organizes **12 video projects** built around beat sheets. Each project README explains the subject, supplies research and fact-check prompts, and documents the free local rebuild workflow.
+This folder organizes **17 video projects** built around beat sheets. Each project README explains the subject, supplies research and fact-check prompts, and documents the free local rebuild workflow.
 
 ## Rebuild toolkit
 
@@ -76,5 +83,10 @@ Brutalist is audio-first and local: the beat sheet drives narration, measured au
 - [How Does Anything Ever Move?](./medhavy-horse-cart-paradox/)
 - [What Really Stops A Sliding Puck?](./medhavy-inertia-puck/)
 - [Did She Lose Five-Sixths Of Her Mass?](./medhavy-weight-vs-mass/)
+- [What Force Pulls A Car Around A Curve?](./medhavy-centripetal-friction/)
+- [Why Is The Crumpling Car Safer?](./medhavy-crumple-zones/)
+- [Does Faster Water Mean Higher Pressure?](./medhavy-bernoulli/)
+- [Why Do Two Notes Make A Pulsing Sound?](./medhavy-beats/)
+- [Is A Ball Still Accelerating At Its Peak?](./medhavy-ball-still-accelerating/)
 
 <!-- END BRUTALIST REBUILD GUIDE -->
