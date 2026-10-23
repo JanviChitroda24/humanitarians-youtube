@@ -47,11 +47,15 @@ Consolidated evaluation across all **4 decision model families** and **6 benchma
 
 ## 📅 Fellowship Submissions Directory (All 5 Weeks — 92.0 Logged Hours)
 
-1. **[`2026-10-16-multi-model-kaggle-benchmarking/`](2026-10-16-multi-model-kaggle-benchmarking/)** (Week 5 — 20.0 Hours)  
+1. **[`2026-10-23-final-capstone-and-substack-publication/`](2026-10-23-final-capstone-and-substack-publication/)** (Week 6 — 20.0 Hours)  
+   *Milestone:* Master capstone milestone, post-training miscalibration diagnosis (Cross-Entropy logit pushing), post-hoc calibration engine (`rlcd/run_post_hoc_calibration.py`) rescuing subjective tasks to sub-5% ECE, model/data agnosticism verification, autonomous agent skill (`skills/rlcd-fine-tune/SKILL.md`), and comprehensive technical publication live on Substack.  
+   *Evidence:* [Live Substack Publication](https://priya413.substack.com/p/your-model-got-more-accurate-after) • [`README.md`](2026-10-23-final-capstone-and-substack-publication/README.md) • [`video_script.md`](2026-10-23-final-capstone-and-substack-publication/video_script.md)
+
+2. **[`2026-10-16-multi-model-kaggle-benchmarking/`](2026-10-16-multi-model-kaggle-benchmarking/)** (Week 5 — 20.0 Hours)  
    *Milestone:* Multi-model decision benchmarking (Typical-small, Von, Decision 1.0) on Kaggle 2x T4 GPUs across 4 datasets, modularity audit, and architectural limitation discovery.  
    *Evidence:* [Week 5 Video Update](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week5.mp4) • [`CONSOLIDATED_BENCHMARK_RESULTS.md`](2026-10-16-multi-model-kaggle-benchmarking/CONSOLIDATED_BENCHMARK_RESULTS.md) • [`rlcd_kaggle_benchmark_executed.ipynb`](2026-10-16-multi-model-kaggle-benchmarking/rlcd_kaggle_benchmark_executed.ipynb) • [`FRICTIONAL.md`](2026-10-16-multi-model-kaggle-benchmarking/FRICTIONAL.md)
 
-2. **[`2026-10-07-laya-rlcd-60k-pipeline/`](2026-10-07-laya-rlcd-60k-pipeline/)** (Week 4 — 20.0 Hours)  
+3. **[`2026-10-07-laya-rlcd-60k-pipeline/`](2026-10-07-laya-rlcd-60k-pipeline/)** (Week 4 — 20.0 Hours)  
    *Milestone:* Full 60,000 dataset training on cloud GPU (NVIDIA T4), 99.10% test accuracy, 0.83% Expected Calibration Error (ECE), ablation study, and universal dataset auto-adapter.  
    *Evidence:* [Week 4 Video Update](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week4.mp4) • [Google Colab Live GPU Run](https://colab.research.google.com/drive/1-f_4z6xMOl80r9vVW6XgYctxtSSg4w3J#scrollTo=FREK-jHrl1_e) • [`PIPELINE_VALIDATION_REPORT.md`](2026-10-07-laya-rlcd-60k-pipeline/PIPELINE_VALIDATION_REPORT.md) • [`FRICTIONAL.md`](2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md)
 
@@ -71,6 +75,10 @@ Consolidated evaluation across all **4 decision model families** and **6 benchma
 
 ## 🔗 Live Verification Links
 
+- **Published Capstone Technical Article (Substack):**  
+  [https://priya413.substack.com/p/your-model-got-more-accurate-after](https://priya413.substack.com/p/your-model-got-more-accurate-after)
+- **Autonomous Agent Skill Specification:**  
+  [`skills/rlcd-fine-tune/SKILL.md` on GitHub](https://github.com/AmeyaPadwad/fine_tuner/blob/SDK%2Bskill/skills/rlcd-fine-tune/SKILL.md)
 - **Google Colab Full 60K GPU Run (Laya):**  
   [https://colab.research.google.com/drive/1-f_4z6xMOl80r9vVW6XgYctxtSSg4w3J#scrollTo=FREK-jHrl1_e](https://colab.research.google.com/drive/1-f_4z6xMOl80r9vVW6XgYctxtSSg4w3J#scrollTo=FREK-jHrl1_e)
 - **Executed Kaggle GPU Notebook (Von):**  
