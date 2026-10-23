@@ -32,7 +32,9 @@ In the upcoming renewal period, the objective is to evolve the pipeline from a s
 - **Fellows Portfolio Pull Request:** [nikbearbrown/humanitarians-youtube PR #232](https://github.com/nikbearbrown/humanitarians-youtube/pull/232)
 - **Primary Volunteer Code Repository:** [adlakhapriya95/humanitarians-ai-volunteer](https://github.com/adlakhapriya95/humanitarians-ai-volunteer)
 - **Collaborative Fine-Tuner Repository:** [AmeyaPadwad/fine_tuner (Branch: `kaggle_benchmarking`)](https://github.com/AmeyaPadwad/fine_tuner/tree/kaggle_benchmarking)
-- **Fellowship Weekly Progress Logs (Weeks 1–5):** [humanitarians-ai-volunteer/logs/](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/tree/main/logs)
+- **Fellowship Weekly Progress Logs (Weeks 1–6):** [humanitarians-ai-volunteer/logs/](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/tree/main/logs)
+- **Master Capstone Technical Publication Live on Substack:** [Your Model Got More Accurate after Fine-tuning. Can You Trust Its Confidence?](https://priya413.substack.com/p/your-model-got-more-accurate-after)
+- **Autonomous Agent Fine-Tuning Skill:** [`skills/rlcd-fine-tune/SKILL.md`](https://github.com/AmeyaPadwad/fine_tuner/blob/SDK%2Bskill/skills/rlcd-fine-tune/SKILL.md)
 
 ### Live GPU Execution Notebooks & Scripts
 - **Google Colab Live GPU Run (60K Laya Fine-Tuning):** [Colab Notebook](https://colab.research.google.com/drive/1-f_4z6xMOl80r9vVW6XgYctxtSSg4w3J#scrollTo=FREK-jHrl1_e)
@@ -48,6 +50,7 @@ In the upcoming renewal period, the objective is to evolve the pipeline from a s
 - **Week 4 Friction Log (Colab T4 Limits & Data Loaders):** [`2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md`](https://github.com/nikbearbrown/humanitarians-youtube/blob/priya-a/fellows/priya-a/2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md)
 
 ### Video Handoffs (Brutalist Protocol: 1080p, Bella Voiceover)
+- **Week 6 Final Capstone Video Update (5m 14s Master Summary):** [JevPipelineUpdate_PriyaA_Week6_FinalSummary.mp4](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week6_FinalSummary.mp4)
 - **Week 5 Video Update:** [JevPipelineUpdate_PriyaA_Week5.mp4](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week5.mp4)
 - **Week 4 Video Update:** [JevPipelineUpdate_PriyaA_Week4.mp4](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week4.mp4)
 - **Week 3 Video Update:** [JevPipelineUpdate_PriyaA.mp4](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA.mp4)
@@ -56,7 +59,7 @@ In the upcoming renewal period, the objective is to evolve the pipeline from a s
 
 ## 3. Hours and Weekly Coverage
 
-Total Hours Logged: **92.0 Hours** across five documented weeks through the current appointment.
+Total Hours Logged: **112.0 Hours** across six documented weeks through the current appointment (exceeding the mandatory 20.0 hrs/week commitment).
 
 | Week | Date Range | Hours Logged | Focus Area | Evidence Link |
 | :---: | :---: | :---: | :--- | :---: |
@@ -65,6 +68,7 @@ Total Hours Logged: **92.0 Hours** across five documented weeks through the curr
 | **Week 3** | Sept 28 – Oct 02 | 20.0 hrs | Config architecture, 6-tier test plan, mock harness | [`logs/2026-09-28-to-10-02.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-09-28-to-10-02.md) |
 | **Week 4** | Oct 03 – Oct 07 | 20.0 hrs | Full 60K Salesforce xLAM Laya training on Colab T4 | [`logs/2026-10-03-to-10-07.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-03-to-10-07.md) |
 | **Week 5** | Oct 12 – Oct 16 | 20.0 hrs | Multi-model Kaggle Dual T4 benchmarking (Von, Decision 1.0) | [`logs/2026-10-12-to-10-16.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-12-to-10-16.md) |
+| **Week 6** | Oct 19 – Oct 23 | 20.0 hrs | Master capstone, post-hoc calibration, Substack article publication | [`logs/2026-10-19-to-10-23.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-19-to-10-23.md) |
 
 ---
 
@@ -82,7 +86,7 @@ Total Hours Logged: **92.0 Hours** across five documented weeks through the curr
 During the renewed appointment, the engineering roadmap will focus on:
 1. **Automated Pipeline Introspection:** Developing a self-adapting pipeline layer that autonomously analyzes input data geometry (detecting class imbalance, label ambiguity, or task primitives) and auto-selects appropriate loss functions (Focal Loss vs. Negative Brier) without manual code modification.
 2. **In-Flight & Post-Hoc Calibration Engine Packaging:** Packaging the verified Temperature Scaling and Platt/Vector Scaling modules directly into the primary SDK inference pipeline, allowing downstream enterprise systems to request calibrated probabilities straight out of the box.
-3. **Publishing the Fellowship Technical Article:** Publishing the comprehensive benchmark analysis on Substack/Medium detailing the RLCD decision model fine-tuning architecture and empirical results.
+3. **Expanding Educational Artifacts & Tutorials:** Developing interactive student notebooks and tutorials based on our published Substack article ([Your Model Got More Accurate after Fine-tuning. Can You Trust Its Confidence?](https://priya413.substack.com/p/your-model-got-more-accurate-after)) detailing the RLCD decision model fine-tuning architecture and empirical results.
 4. **Expanding Architecture Benchmarks:** Extending automated benchmarks to the remaining decision models (`Tokz-labs/OpenDecision-Small` and `OzLabs/typical-small`) under headless batch scripts.
 
 ---
