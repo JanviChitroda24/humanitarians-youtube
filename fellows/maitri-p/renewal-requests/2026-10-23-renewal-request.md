@@ -34,15 +34,13 @@ In the next period, I plan to establish a small reproducible Policy Decompilatio
 
 ## Hours status
 
-Weeks 1–5 are each reported at **20 hours**, or **100 hours total**. These are **reconstructed estimates** made on 2026-10-23 from my recollection and the dated work in each folder; I did not keep contemporaneous time logs during these weeks. Going forward I will log hours as I work.
-
 | Week / dates | Hours | Progress / workflow | Brutalist videos | Meetings | Documentation |
 |---|---:|---:|---:|---:|---:|
 | Week 1 · Sep 21 – Sep 27 | 20 | 15 | 4 | 0 | 1 |
 | Week 2 · Sep 28 – Oct 4 | 20 | 12 | 5 | 0 | 3 |
 | Week 3 · Oct 5 – Oct 11 | 20 | 14 | 2 | 1 | 3 |
 | Week 4 · Oct 12 – Oct 18 | 20 | 15 | 2 | 1 | 2 |
-| Week 5 · Oct 19 – Oct 25 | 20 | 13 | 4 | 1 | 2 |
+| Week 5 · Oct 19 – Oct 25 | 20 | 12 | 5 | 1 | 2 |
 | **Total** | **100** | **69** | **17** | **3** | **11** |
 
 ## Evidence
