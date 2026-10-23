@@ -46,8 +46,8 @@ In the upcoming renewal period, the objective is to evolve the pipeline from a s
 ### Technical Reports & Frictional Logs
 - **Consolidated Multi-Model Benchmark Report:** [`CONSOLIDATED_BENCHMARK_RESULTS.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/projects/iacon-optimus-tool-selection/docs/CONSOLIDATED_BENCHMARK_RESULTS.md)
 - **60K Laya Pipeline Validation Report:** [`PIPELINE_VALIDATION_REPORT.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/projects/iacon-optimus-tool-selection/docs/PIPELINE_VALIDATION_REPORT.md)
-- **Week 5 Friction Log (Kaggle Timeouts & Desyncs):** [`2026-10-16-multi-model-kaggle-benchmarking/FRICTIONAL.md`](https://github.com/nikbearbrown/humanitarians-youtube/blob/priya-a/fellows/priya-a/2026-10-16-multi-model-kaggle-benchmarking/FRICTIONAL.md)
-- **Week 4 Friction Log (Colab T4 Limits & Data Loaders):** [`2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md`](https://github.com/nikbearbrown/humanitarians-youtube/blob/priya-a/fellows/priya-a/2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md)
+- **Week 5 Friction Log (Kaggle Timeouts & Desyncs):** [`2026-10-16-multi-model-kaggle-benchmarking/FRICTIONAL.md`](https://github.com/adlakhapriya95/humanitarians-youtube/blob/priya-a/fellows/priya-a/2026-10-16-multi-model-kaggle-benchmarking/FRICTIONAL.md)
+- **Week 4 Friction Log (Colab T4 Limits & Data Loaders):** [`2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md`](https://github.com/adlakhapriya95/humanitarians-youtube/blob/priya-a/fellows/priya-a/2026-10-07-laya-rlcd-60k-pipeline/FRICTIONAL.md)
 
 ### Video Handoffs (Brutalist Protocol: 1080p, Bella Voiceover)
 - **Week 6 Final Capstone Video Update (5m 14s Master Summary):** [JevPipelineUpdate_PriyaA_Week6_FinalSummary.mp4](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/JevPipelineUpdate_PriyaA_Week6_FinalSummary.mp4)
