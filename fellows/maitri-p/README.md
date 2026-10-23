@@ -29,6 +29,17 @@
 
 Each project folder contains its README (video details and SHA-256 hashes), landscape `beat_sheet.json` and native portrait `vertical/beat_sheet.json`, fact-check and shot list, and the custom scene code used to build it. Rendered videos are kept on Google Drive and linked from each project README. Narration is Kokoro `af_bella` (Bella), a synthetic voice disclosed in every video.
 
+## Hours
+
+| Week | Progress / workflow | Brutalist videos | Meetings | Documentation | Total |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Week 1 (Sep 21) | 15 | 4 | 0 | 1 | 20 |
+| Week 2 (Sep 28) | 12 | 5 | 0 | 3 | 20 |
+| Week 3 (Oct 5) | 14 | 2 | 1 | 3 | 20 |
+| Week 4 (Oct 12) | 15 | 2 | 1 | 2 | 20 |
+| Week 5 (Oct 19) | 13 | 4 | 1 | 2 | 20 |
+| **Total** | **69** | **17** | **3** | **11** | **100** |
+
 ## Frictional logs
 
 Every work subfolder here carries its own `FRICTIONAL.md` — a dated record of the process
