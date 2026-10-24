@@ -20,7 +20,7 @@ An explainer on how an AI agent goes beyond a plain LLM: a runtime exposes tools
 - **Checks:** `FACTCHECK.md`, `SHOTLIST.md`, `PROMPTS.md`, `CHECKS-REPORT.md`. Render gates: GATE T passed; GATE V reported 0 blockers on both aspects (remaining warnings are the typing-animation underfill on B01).
 
 ## Watch and review
-- **Landscape** — `AgentsUseTools_MaitriP.mp4` — 3840×2160 — 1:48.8 — SHA-256 `07e7b84594d2af2b7113610c765ec520053844c72188fa9c84f335d555e65ded`
-  Drive: https://drive.google.com/file/d/19FrfNUM_zKFsz20cABHxEAez9aASpRPz/view?usp=sharing
-- **Vertical** — `AgentsUseTools_Maitri-9x16.mp4` — 2160×3840 — 1:48.8 — SHA-256 `02236acead9c3b96b4c2a6e7f03c8a5e8b7db32143e497f4b944304c77482896`
-  Drive: https://drive.google.com/file/d/1GvPz8WNdgz0eTSJylaz83x3MkBFSzntG/view?usp=sharing
+- **Landscape** — `AgentsUseTools_MaitriP.mp4`
+  [Drive](https://drive.google.com/file/d/19FrfNUM_zKFsz20cABHxEAez9aASpRPz/view?usp=sharing)
+- **Vertical** — `AgentsUseTools_Maitri-9x16.mp4`
+  [Drive](https://drive.google.com/file/d/1GvPz8WNdgz0eTSJylaz83x3MkBFSzntG/view?usp=sharing)
