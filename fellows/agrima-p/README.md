@@ -169,6 +169,29 @@ an explicit, documented re-voice decision is made.
   "first draft"), and producing two Brutalist videos (four files in 16:9 + 9:16).
   Homes of Hope visuals are abstract (no photos, no people shapes). 16:9 (1:45)
   + 9:16 (1:50, full-parity reformat, no beats dropped) cuts.
+- `2026-10-24-ai-colleague-quota/` — The AI Colleague With a Quota: sales teams
+  are adding AI agents that handle the research and the first hello so people
+  can spend more time on the conversations that matter. User asked for a "Deep
+  Explainer" at exactly 4:00 with no footage — the toolkit's deep-explainer
+  skill targets 5-10 min and requires archival stills, so built on the
+  ai-explainer chassis (disclosed substitution). Warm, simple, positive but fair
+  tone. Every figure from the article (87%, 1.7x, 94%, 54%, 34%, 46%, about a
+  third) is labeled on screen as company- or survey-reported, spread over four
+  stat scenes, with a closing sources card and a spoken note that most sources
+  are companies that sell these tools. Generated visuals only (no company
+  logos). 16:9 (4:00) + 9:16 (2:57, three beats dropped to fit the Shorts cap:
+  B02, B05, B06).
+- `2026-10-24-weekly-recap-quota/` — This Week: Done, and Where I Helped. A
+  CLI-explainer weekly recap built around a real weekly_recap_v1.py (a flat list
+  of the week), revised into weekly_recap_v2.py to add my role to each item
+  (author / attendee / support / producer) and print "4 things done, 1 in a
+  supporting role" — both scripts real, both actually run. Content: publishing
+  "The AI Colleague With a Quota" on Substack, attending Homes of Hope
+  documentary meetings, helping Yatra with the documentary's social media
+  strategy (nothing about the strategy is described beyond "helped"), and
+  producing two Brutalist videos (four files in 16:9 + 9:16). Homes of Hope
+  visuals are abstract (no photos, no people shapes, no platform logos). 16:9
+  (1:44) + 9:16 (1:48, full-parity reformat, no beats dropped) cuts.
 
 ## Frictional log
 
