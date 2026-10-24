@@ -22,11 +22,5 @@
 - **Checks:** `FACTCHECK.md`, `SHOTLIST.md`, `PROMPTS.md`. GATE V: 0 blockers on both aspects.
 
 ## Watch and review
-- **Landscape** — `PiWeek1_MaitriP.mp4` — 3840×2160 — 1:29.8 — SHA-256 `882be805be57cf04cf3a0fa826f25a092eddfe16b6a46ec35dac4dedc5b86339`
-  Drive: pending
-- **Vertical** — `PiWeek1_MaitriP.mp4` — 2160×3840 — 1:29.8 — SHA-256 `3e344144f5c204fdcd69d3ebea4cdea430bc96196a55073d6030ed4da5d98633`
-  Drive: pending
-
-PM review status: pending
-YouTube 4K processing check: pending upload
-Professors' publication decision: pending
+- **Landscape** — `PiWeek1_MaitriP.mp4` — (Drive Link)[https://drive.google.com/file/d/1MkWJSq6NMZERfLqyP5FRCVWw1PbgVZMm/view?usp=sharing]
+- **Vertical** — `PiWeek1_MaitriP.mp4` —  (Drive link)[https://drive.google.com/file/d/1ujihy3CPvTG-KGtECeVfhIFYwQ32J54q/view?usp=sharing]
