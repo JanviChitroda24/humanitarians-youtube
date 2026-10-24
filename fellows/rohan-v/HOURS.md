@@ -17,7 +17,8 @@ reports I wrote at the time). From 28 Sep each week also has its own file in
 | 28 Sep – 2 Oct | Renewal report and request; Lyrical Literacy Fellows Handbook v1.0 | 20 |
 | 5–9 Oct | Last week's two videos; How Shazam Finds a Song and How AI Music Generators Turn Text Into Audio | 20 |
 | 12–16 Oct | Homes of Hope English + Hindi proof of concept; How Apps Find a Song's Tempo; the progress update | 20 |
-| **Total** | | **214** |
+| 19–23 Oct | How Apps Find a Song's Key and How Noise-Cancelling Headphones Work | 20 |
+| **Total** | | **234** |
 
 Hours include video research and production, reviewing Brutalist videos, Lyrical
 Literacy meetings and coordination, and tool testing. Evidence for each week (videos,
