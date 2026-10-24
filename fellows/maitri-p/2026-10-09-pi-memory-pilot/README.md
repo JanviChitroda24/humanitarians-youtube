@@ -24,7 +24,3 @@
 
 ## Watch and review
 - **Landscape** — `PiMemoryPilot_MaitriP.mp4` — [Drive Link](https://drive.google.com/file/d/1zxl7Krfp6hWkd0CC0VtDfpQD1Gp-zOPT/view?usp=sharing)
-
-PM review status: pending
-YouTube 4K processing check: pending upload
-Professors' publication decision: pending

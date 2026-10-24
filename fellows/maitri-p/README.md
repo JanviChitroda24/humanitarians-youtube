@@ -8,24 +8,28 @@
 
 ### Week 1 (September 21)
 
-- [How Pi Works and Where Memory Could Fit](2026-09-21-pi-week1-onboarding/README.md) — weekly update; onboarding, Pi's tool loop, and why seeing an error is not remembering a lesson (catch-up report).
+- **STEM:** [Noise Cancellation](2026-10-23-noise-cancelling-headphones/README.md) — why noise-cancelling headphones make outside sound quieter at the ear.
+- **Progress:** [How Pi Works](2026-09-21-pi-week1-onboarding/README.md) — onboarding, Pi's tool loop, and where memory could fit.
 
 ### Week 2 (September 28)
 
-- [How AI Agents Actually Use Tools](2026-10-02-agents-use-tools/README.md) — AI/STEM explainer; how an agent calls tools, observes results and decides, with a real local example.
-- [Memory Systems for the Pi Agent](2026-10-03-pi-agent-memory/README.md) — weekly update; project scope, memory types, prior work and planned evaluation.
+- **STEM:** [How Agents Use Tools](2026-10-02-agents-use-tools/README.md) — tool calls, results, and the next decision.
+- **Progress:** [Memory Systems for Pi](2026-10-03-pi-agent-memory/README.md) — project scope, memory types, and evaluation approach.
 
 ### Week 3 (October 5)
 
-- [Pi Memory Pilot: First Results](2026-10-09-pi-memory-pilot/README.md) — weekly update; recorded one-repetition pilot across four memory conditions, reported as early signals.
+- **STEM:** [DynamoDB Hot Partitions](2026-10-23-dynamodb-hot-partition/README.md) — why a table can throttle despite spare capacity.
+- **Progress:** [Pi Memory Pilot](2026-10-09-pi-memory-pilot/README.md) — first comparison across four memory conditions.
 
 ### Week 4 (October 12)
 
-- [Where the Improvement Came From](2026-10-23-pi-memory-task-review/README.md) — weekly update; task-by-task re-analysis of the saved pilot runs.
+- **STEM:** [AWS Lambda Cold Starts](2026-10-23-lambda-cold-start/README.md) — why the first request can be slower.
+- **Progress:** [Memory Task Review](2026-10-23-pi-memory-task-review/README.md) — task-by-task re-analysis of the pilot.
 
 ### Week 5 (October 19)
 
-- In progress.
+- **STEM:** [How GPS Knows Where You Are](2026-10-23-gps-how-it-works/README.md) — how a phone finds its position by listening to satellites.
+- **Progress:** [Policy Decompilation Scope](2026-10-23-policy-decompilation-scope/README.md) — the new research question and proposed first comparison.
 
 Each project folder contains its README (video details and SHA-256 hashes), landscape `beat_sheet.json` and native portrait `vertical/beat_sheet.json`, fact-check and shot list, and the custom scene code used to build it. Rendered videos are kept on Google Drive and linked from each project README. Narration is Kokoro `af_bella` (Bella), a synthetic voice disclosed in every video.
 
