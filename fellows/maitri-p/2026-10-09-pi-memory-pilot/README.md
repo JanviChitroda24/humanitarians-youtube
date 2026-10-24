@@ -23,10 +23,7 @@
 - **Checks:** `FACTCHECK.md`, `SHOTLIST.md`, `PROMPTS.md`. GATE V: 0 blockers on both aspects.
 
 ## Watch and review
-- **Landscape** — `PiMemoryPilot_MaitriP.mp4` — 3840×2160 — 1:28.8 — SHA-256 `07e7d2e6ba741d76f2b6506ac0c8c9c5b245b1eb7fd83387aa0a5495ac057f9d`
-  Drive: pending
-- **Vertical** — `PiMemoryPilot_MaitriP.mp4` — 2160×3840 — 1:28.8 — SHA-256 `800e127ca6e11d97cadc313f8064b946b745aab57d3cdd63e6b17992e736060b`
-  Drive: pending
+- **Landscape** — `PiMemoryPilot_MaitriP.mp4` — [Drive Link](https://drive.google.com/file/d/1zxl7Krfp6hWkd0CC0VtDfpQD1Gp-zOPT/view?usp=sharing)
 
 PM review status: pending
 YouTube 4K processing check: pending upload
