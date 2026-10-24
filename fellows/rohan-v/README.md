@@ -20,7 +20,7 @@ Lyrical Literacy (November), then an editing pipeline (by mid-December).
 - [Renewal request](./RENEWAL.md) (sent 2026-09-28, approved) · [renewal index](./renewal-requests/README.md)
 - [Weekly hours](./weekly-hours/README.md): one file per week · [summary table](./HOURS.md)
 - [Research and project plan](./research-plan.md), with status
-- Latest week: [2026-10-16](#week-of-2026-10-16)
+- Latest week: [2026-10-23](#week-of-2026-10-23)
 
 ## How this folder is built
 
@@ -31,6 +31,16 @@ Lyrical Literacy (November), then an editing pipeline (by mid-December).
 Rebuild with [brutalist.art](https://github.com/nikbearbrown/brutalist.art). Renders (narration, beat clips and the 4K masters) go to Google Drive, one dated folder per week, and each work folder's README links its own. Anything used to *build* a video (captures, pantry stills, sfx, evidence data) is committed beside it, per the [fellows README](../README.md).
 
 Every master is 4K: `./art final <reel>` (3840×2160) and `./art final <reel>/vertical --height 3840` (2160×3840).
+
+## Week of 2026-10-23
+
+Two STEM explainers, both 16:9 (3840×2160) and native 9:16 (2160×3840), each built on a program I wrote and
+measured, with listening clips. Masters in Drive, [`2026-10-23/`](https://drive.google.com/drive/folders/1AY5DOJuUvMLFiJPpuiCOuQAmDVdbEfGO) (`landscape/`, `vertical/`), named per
+[FELLOWS-SUBMISSION](https://github.com/nikbearbrown/brutalist.art/blob/main/docs/FELLOWS-SUBMISSION.md).
+Hours: [20](./weekly-hours/2026-10-19-weekly-hours.md).
+
+- [How Apps Find a Song's Key](./2026-10-23-how-apps-find-a-songs-key/): chroma, key profiles and the relative-key catch, on a key detector I built and tested on 60 Western songs (`KeyDetection_RohanV.mp4`)
+- [How Noise-Cancelling Headphones Work](./2026-10-23-how-noise-cancelling-headphones-work/): anti-noise, the timing race and why lows cancel and highs don't, on a headphone I simulated and measured (`NoiseCancelling_RohanV.mp4`)
 
 ## Week of 2026-10-16
 
