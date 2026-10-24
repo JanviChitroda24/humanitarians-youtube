@@ -36,8 +36,8 @@ would have been raised 25 dB to match "off", hiding the result. The off/on clip 
 - **B02's phone boxes were too narrow for their labels** ("OUTSIDE MIC" ran out of its box): "MIC OUT" /
   "MIC IN" on the phone, wider boxes; the noise lines no longer touch the outside mic.
 - **B05's "cups" label collided with the stats**: moved inside the shaded band, with a legend under the chart.
-- **Gate V edge-bleed**: B04's landscape chip and B03's phone legend ran past the right edge; shortened, and the
-  phone legend stacked.
+- **Gate V edge-bleed**: B04's landscape chip and B03's phone legend ran past the right edge; the chip was
+  shortened, and the phone legend became one short row ("LEFT" for "LEFT OVER") below the 2 kHz result.
 - **GATE T §8.1 on the phone**: the italic spark lines' x-height ("ncel", "hum") measured 66 px; phone spark
   lines are 1.25× larger (and `HaiApplyCard`'s via `sparkScale`).
 
