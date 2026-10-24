@@ -20,7 +20,4 @@
 - **Checks:** `FACTCHECK.md`, `SHOTLIST.md`, `PROMPTS.md`. GATE V: 0 blockers on both aspects.
 
 ## Watch and review
-- **Landscape** — `NoiseCancellingHeadphones_MaitriP.mp4` — 3840×2160 — 1:28.2 — SHA-256 `527088792eaa30e28b01d663da56c0f498c0e10605b5e87608d9517afeaae75e`
-  Drive: pending
-- **Vertical** — `NoiseCancellingHeadphones_9x16.mp4` — 2160×3840 — 1:28.2 — SHA-256 `04dd5596c36758c5620c7a96f0deef04f462e9d09af4df59ab72006ecc19c3f3`
-  Drive: pending
+- **Landscape** — `NoiseCancellingHeadphones_MaitriP.mp4` — [Drive Link]([Drive Link](https://drive.google.com/file/d/1zxl7Krfp6hWkd0CC0VtDfpQD1Gp-zOPT/view?usp=sharing))
