@@ -22,7 +22,4 @@
 - **Checks:** `FACTCHECK.md`, `SHOTLIST.md`, `PROMPTS.md`. GATE V: 0 blockers on both aspects.
 
 ## Watch and review
-- **Landscape** — `PolicyDecompilation_MaitriP.mp4` — 3840×2160 — 1:23.8 — SHA-256 `e49aff6a6eabc034f2a85376a1bbf8a340ebd23e061a9cde7a8b51fa87ac71bb`
-  Drive: pending
-- **Vertical** — `PolicyDecompilation-vertical.mp4` — 2160×3840 — 1:23.8 — SHA-256 `a770b43bf7e5c080cecc1f357613e0db7be8e275e580173a3440d081c5b77f46`
-  Drive: pending
+- **Landscape** — `PolicyDecompilation_MaitriP.mp4` — [Drive Link](https://drive.google.com/file/d/1zxl7Krfp6hWkd0CC0VtDfpQD1Gp-zOPT/view?usp=sharing)
