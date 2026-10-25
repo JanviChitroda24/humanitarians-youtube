@@ -11,7 +11,8 @@ Logged weekly, in the week it happened. These are hours worked.
 | 29 Sep – 3 Oct | Langfuse trace grouping — one brief, one trace | 12 | Small Language Models | 11 | 23 |
 | 6–10 Oct | Reliability — model config, 10-K/A bug, service timeouts | 13 | Agentic Dev Life Cycle | 11 | 24 |
 | 13–17 Oct | Structured logging (225 prints → logs) + validated Settings | 14 | KV Caching | 11 | 25 |
-| **To date** | | **88** | | **75** | **163** |
+| 20–24 Oct | Split reviewer/viewer dashboards (least-privilege) + silent-correction fix | 12 | Mixture of Experts | 11 | 23 |
+| **To date** | | **100** | | **86** | **186** |
 
 **Sprint hrs** is project and research work on the vendor-intelligence system
 (collectors, the agent graph, reliability and observability). **STEM hrs** is the
