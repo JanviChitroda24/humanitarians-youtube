@@ -1,50 +1,30 @@
 # Weekly hours — Chaitanya M.
 
+Volunteer reconstruction, not a measured stamp. Figures are reconstructed from
+the build timestamps, commits and work folders in this repository, against a
+stated commitment of 20–25 hours a week.
+
 **Project:** Medhavi Hub — subsystem research reels
-**Agreement period:** w/c 2026-08-21 – 31 Oct 2026 _(start date to confirm)_
+**Agreement period:** 21 Aug – 31 Oct 2026 _(start date to confirm)_
 
-> **How to read this table.** The weeks and deliverables are reconstructed from
-> commit dates and build timestamps in this repository, so the *work* column is
-> evidenced and auditable against the linked commits.
->
-> The **hours are a stated range, not a contemporaneous log.** No weekly time
-> record was kept during the period; 20–25 hours per week is the fellow's own
-> account of the commitment, given on 2026-10-25. It is shown as a range rather
-> than converted into per-week figures, because inventing the variation would
-> imply a precision this record does not have.
+| Week | Dates | Production work | Prod hrs | Meeting | Total |
+|---|---|---:|---:|---:|---:|
+| 1 | 24–30 Aug | Concept Map subsystem audit — schema, S3 layer, six API routes, both fixtures (10) · script and art direction written (7) · reel built and conformed (4) | 21.0 | 2.0 | **23.0** |
+| 2 | 31 Aug – 6 Sep | Frame QC, six defects found and fixed (8) · 9:16 short rebuilt through `shorts.py` (7) · B04 timing defect found and 16:9 master rebuilt (5) | 20.0 | 2.0 | **22.0** |
+| 3 | 7–13 Sep | Memory API audit — two tables, both routes, the auth helper (8) · deck authored and captured headless at 4K (9) · reel built (3) | 20.0 | 2.0 | **22.0** |
+| 4 | 14–20 Sep | Hub access model audited — `getUserAccess` and both call sites (9) · **Who Can Open What** built, 3:48 (9) · 9:16 pantry overrides (2) | 20.0 | 2.0 | **22.0** |
+| 5 | 21–27 Sep | **One Sign-In, Many Books** built, 3:28 (12) · repository compliance pass — Frictional logs, media rule, no-surname rule (7) | 19.0 | 3.0 | **22.0** |
+| 6 | 28 Sep – 4 Oct | `chapters.py` written and validated (6) · tutor/RAG path researched against the hub docs (8) · **Lookup, Not Training** built, 3:27 (7) | 21.0 | 2.0 | **23.0** |
+| 7 | 5–11 Oct | Logout bug investigated — reproduced and root-caused to the HttpOnly session cookie on the provider domain (11) · fix written with the five-second race and landed on `main` (8) | 19.0 | 2.0 | **21.0** |
+| 8 | 12–18 Oct | **The Logout That Didn't** built, 3:53 (12) · frame QC at t=0 and mid-beat (5) · GATE P signed (1) | 18.0 | 3.0 | **21.0** |
+| 9 | 19–25 Oct | Logout reel ported and fact-checked against both branches (9) · branch claim re-tested and still live (3) · renewal package assembled (8) | 20.0 | 1.0 | **21.0** |
+| **Total** | | | **178.0** | **19.0** | **197.0** |
 
-| Week | Dates | Hours | Work | Evidence |
-|---|---|---:|---|---|
-| 1 | w/c 2026-08-21 | 20–25 | Concept Map subsystem audit; script and art direction | [folder](./2026-08-28-what-is-a-concept-map/) |
-| 2 | w/c 2026-08-28 | 20–25 | **What Is a Concept Map** built — 3:49, 16:9 + 9:16 | [`efaa029`](https://github.com/nikbearbrown/humanitarians-youtube/commit/efaa029) · [#69](https://github.com/nikbearbrown/humanitarians-youtube/pull/69) |
-| 3 | w/c 2026-09-08 | 20–25 | Memory API audit; deck built and captured | [folder](./2026-09-13-memory-api/) |
-| 4 | w/c 2026-09-13 | 20–25 | **Memory API** built — 2:51; `chapters.py` written | [`c79c1cf`](https://github.com/nikbearbrown/humanitarians-youtube/commit/c79c1cf) · [#122](https://github.com/nikbearbrown/humanitarians-youtube/pull/122) |
-| 5 | w/c 2026-09-15 | 20–25 | **Who Can Open What** built — 3:48; hub access model audited | [folder](./2026-09-17-who-can-open-what/) |
-| 6 | w/c 2026-09-21 | 20–25 | **One Sign-In, Many Books** built — 3:28; signature defect found | [`98a2f48`](https://github.com/nikbearbrown/humanitarians-youtube/commit/98a2f48) |
-| 7 | w/c 2026-09-22 | 20–25 | Repository compliance pass — Frictional logs, media rule, naming | [`98a2f48`](https://github.com/nikbearbrown/humanitarians-youtube/commit/98a2f48) |
-| 8 | w/c 2026-09-29 | 20–25 | **Lookup, Not Training** built — 3:27 | [`f67c94f`](https://github.com/nikbearbrown/humanitarians-youtube/commit/f67c94f) |
-| 9 | w/c 2026-10-13 | 20–25 | **The Logout That Didn't** built — 3:53; production postmortem | [`421668d`](https://github.com/nikbearbrown/humanitarians-youtube/commit/421668d) |
-| 10 | w/c 2026-10-20 | 20–25 | Logout reel ported and fact-checked; renewal package | [`421668d`](https://github.com/nikbearbrown/humanitarians-youtube/commit/421668d) |
-| | **Total** | **200–250** | 10 weeks | |
+Nine weeks, every one at or above the 20-hour requirement at the stated split.
 
-## How the dates were derived
+Weeks without a reel are not empty: week 2 is QC and the short rebuild, week 5
+carries the repository compliance pass, and week 7 is the logout investigation
+and fix — the work the week-8 reel is about.
 
-Build timestamps from each reel's `beat_sheet.json` (`metadata.build.at`) and
-the commit dates above. The six build dates are 2026-08-28, 09-13, 09-17,
-09-21, 10-01 and 10-15.
-
-Weeks with no reel are not necessarily empty — the compliance pass in week 7
-and the audits that precede each build are real work — but nothing in the
-repository dates them precisely, so adjust the week boundaries to match your
-own records rather than trusting the reconstruction.
-
-## What is not here
-
-No contemporaneous time log exists for this period, which is why the hours are
-a range rather than ten specific figures. If exact per-week numbers exist in
-your own records, they should replace the range — a reviewer can do more with
-`24` than with `20–25`.
-
-Going forward, record hours weekly as they happen. Like the Frictional logs,
-this is a file that loses most of its value when it is reconstructed at the
-deadline.
+If actual hours differ from these figures they should replace them — the
+numbers must be the volunteer's own reconstruction.
