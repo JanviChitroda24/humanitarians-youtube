@@ -1,6 +1,6 @@
 # Weekly hours — Chaitanya M.
 
-**Reporting period (Weeks 1–13):** agreement 1 Aug — 31 Oct 2026.
+**Reporting period (Weeks 1–12):** agreement 1 Aug — 31 Oct 2026.
 **Project:** Medhavi Hub — subsystem research reels
 
 Hours below are reconstructed estimates based on documented project activity and
@@ -32,8 +32,7 @@ audited during that review.
 | Week 10 | `chapters.py` written and validated (6) · tutor retrieval path researched against the hub docs (8) · [Lookup, Not Training](./2026-10-01-lookup-not-training/) built (7) | 21.0 | 2.0 | **23.0** |
 | Week 11 | Logout bug reproduced and root-caused to the HttpOnly session cookie on the provider domain (11) · [fix written with the five-second race](https://github.com/Medhavy/medhavi-hub/commit/4777b36) and landed on `main` (8) | 19.0 | 2.0 | **21.0** |
 | Week 12 | [The Logout That Didn't](./2026-10-15-the-logout-that-didnt/) built (12) · frame QC at t=0 and mid-beat (5) · GATE P signed (1) | 18.0 | 3.0 | **21.0** |
-| Week 13 | Logout reel ported and fact-checked against both branches (9) · branch claim re-tested and still live (3) · [renewal package](./RENEWAL.md) assembled (8) | 20.0 | 1.0 | **21.0** |
-| **Total** | | **250.0** | **27.0** | **277.0** |
+| **Total** | | **230.0** | **26.0** | **256.0** |
 
 Each week meets the 20-hour requirement at the stated split.
 
