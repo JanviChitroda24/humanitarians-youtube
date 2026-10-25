@@ -35,4 +35,4 @@ so anyone browsing briefs could also approve them; I moved it to its own
 **What I understand now, and what I still do not.**
 * Understood: two shapes of the same silent-failure lesson — a privilege exposed on the
   wrong page, and a form field that's collected but never sent. Both look fine until they
-  bite, and neither throws an error.
+  bite, and neither throws an error .
