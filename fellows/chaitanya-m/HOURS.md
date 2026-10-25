@@ -5,10 +5,12 @@ the build timestamps, commits and work folders in this repository, against a
 stated commitment of 20–25 hours a week.
 
 **Project:** Medhavi Hub — subsystem research reels
-**Agreement period:** 21 Aug – 31 Oct 2026 _(start date to confirm)_
+**Agreement period:** 1 Aug – 31 Oct 2026
+**Detailed record below:** 24 Aug – 25 Oct 2026, nine weeks, 197 hours
 
 | Week | Dates | Production work | Prod hrs | Meeting | Total |
 |---|---|---:|---:|---:|---:|
+| — | 1–23 Aug | **Not documented here.** Predates this reporting folder; no record was kept and the detail is not recalled. Not counted in the total below. | — | — | **—** |
 | 1 | 24–30 Aug | Concept Map subsystem audit — schema, S3 layer, six API routes, both fixtures (10) · script and art direction written (7) · reel built and conformed (4) | 21.0 | 2.0 | **23.0** |
 | 2 | 31 Aug – 6 Sep | Frame QC, six defects found and fixed (8) · 9:16 short rebuilt through `shorts.py` (7) · B04 timing defect found and 16:9 master rebuilt (5) | 20.0 | 2.0 | **22.0** |
 | 3 | 7–13 Sep | Memory API audit — two tables, both routes, the auth helper (8) · deck authored and captured headless at 4K (9) · reel built (3) | 20.0 | 2.0 | **22.0** |
@@ -20,7 +22,10 @@ stated commitment of 20–25 hours a week.
 | 9 | 19–25 Oct | Logout reel ported and fact-checked against both branches (9) · branch claim re-tested and still live (3) · renewal package assembled (8) | 20.0 | 1.0 | **21.0** |
 | **Total** | | | **178.0** | **19.0** | **197.0** |
 
-Nine weeks, every one at or above the 20-hour requirement at the stated split.
+Nine documented weeks, every one at or above the 20-hour requirement at the
+stated split. The first three weeks of the agreement (1–23 Aug) are not
+documented in this folder and are deliberately excluded from the total rather
+than estimated.
 
 Weeks without a reel are not empty: week 2 is QC and the short rebuild, week 5
 carries the repository compliance pass, and week 7 is the logout investigation

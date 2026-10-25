@@ -1,6 +1,6 @@
 # Renewal request — Chaitanya M.
 
-- **Current agreement:** 21 Aug — 31 Oct 2026 _(start date to confirm)_
+- **Current agreement:** 1 Aug — 31 Oct 2026
 - **Requested period:** 1 Nov 2026 — 30 Nov 2026
 
 - **Project:** Medhavi Hub — subsystem research reels
@@ -12,10 +12,13 @@
 
 ## What the current period produced
 
-Six research-log reels on the Medhavi hub, built between 28 Aug and 15 Oct
-across ten weeks at 20–25 hours a week,
-every one of them fact-checked against the hub source after filming and every
-one of them carrying its own verification trail in the repository.
+Six research-log reels on the Medhavi hub, built between 28 Aug and 15 Oct —
+every one fact-checked against the hub source after filming, and every one
+carrying its own verification trail in the repository.
+
+The detailed record below covers 24 Aug – 25 Oct: **nine weeks, 197 hours**.
+The first three weeks of the agreement period (1–23 Aug) predate this
+reporting folder and are not documented here.
 
 The through-line is not the videos. It is that **each reel is an audit that
 produced a finding**, and the findings are in the codebase, not just on camera:
@@ -157,11 +160,8 @@ rewritten; weekly hours; a fact-check per reel against a named commit.
 
 ---
 
-> **Before sending:** confirm the current-agreement start date against your own
-> records — 21 Aug is inferred from the first week of work in this repository,
-> not from the agreement itself. Replace the 20–25 hour range in
-> [HOURS.md](HOURS.md) with exact per-week figures if you have them. Then
-> delete this block. Per `fellows/README.md`,
+> **Before sending:** the hours in [HOURS.md](HOURS.md) are a reconstruction;
+> replace them if your own records differ. Then delete this block. Per `fellows/README.md`,
 > email the report link to hr@humanitarians.ai and bear@humanitarians.ai before
 > expiration, Monday–Wednesday during business hours. Renewals require approval
 > and agreements are not backdated.
