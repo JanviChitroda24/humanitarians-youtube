@@ -11,6 +11,7 @@ correctly is going unused. Video projects live in one dated lowercase-kebab
 folder per reel, `YYYY-MM-DD-slug/`.
 
 **Renders:** [Google Drive](https://drive.google.com/drive/folders/17fbvQu3dP4PzBrAFZpMxKRLyIzHInZ_v)
+**Renewal:** [RENEWAL.md](RENEWAL.md) · **Hours:** [HOURS.md](HOURS.md)
 — masters, narration and beat clips. Source, beat sheets, scripts, subtitles,
 build inputs and checks stay here in git, per `fellows/README.md`.
 
