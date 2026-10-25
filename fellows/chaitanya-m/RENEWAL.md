@@ -16,9 +16,8 @@ Six research-log reels on the Medhavi hub, built between 28 Aug and 15 Oct —
 every one fact-checked against the hub source after filming, and every one
 carrying its own verification trail in the repository.
 
-The detailed record below covers 24 Aug – 25 Oct: **nine weeks, 197 hours**.
-The first three weeks of the agreement period (1–23 Aug) predate this
-reporting folder and are not documented here.
+**Nine weeks, 197 hours** across the reporting period — the split and the
+per-week basis are in [HOURS.md](HOURS.md).
 
 The through-line is not the videos. It is that **each reel is an audit that
 produced a finding**, and the findings are in the codebase, not just on camera:

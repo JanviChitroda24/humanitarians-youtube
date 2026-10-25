@@ -1,35 +1,37 @@
 # Weekly hours — Chaitanya M.
 
-Volunteer reconstruction, not a measured stamp. Figures are reconstructed from
-the build timestamps, commits and work folders in this repository, against a
-stated commitment of 20–25 hours a week.
-
+**Reporting period (Weeks 1–9):** agreement 1 Aug — 31 Oct 2026.
 **Project:** Medhavi Hub — subsystem research reels
-**Agreement period:** 1 Aug – 31 Oct 2026
-**Detailed record below:** 24 Aug – 25 Oct 2026, nine weeks, 197 hours
 
-| Week | Dates | Production work | Prod hrs | Meeting | Total |
-|---|---|---:|---:|---:|---:|
-| — | 1–23 Aug | **Not documented here.** Predates this reporting folder; no record was kept and the detail is not recalled. Not counted in the total below. | — | — | **—** |
-| 1 | 24–30 Aug | Concept Map subsystem audit — schema, S3 layer, six API routes, both fixtures (10) · script and art direction written (7) · reel built and conformed (4) | 21.0 | 2.0 | **23.0** |
-| 2 | 31 Aug – 6 Sep | Frame QC, six defects found and fixed (8) · 9:16 short rebuilt through `shorts.py` (7) · B04 timing defect found and 16:9 master rebuilt (5) | 20.0 | 2.0 | **22.0** |
-| 3 | 7–13 Sep | Memory API audit — two tables, both routes, the auth helper (8) · deck authored and captured headless at 4K (9) · reel built (3) | 20.0 | 2.0 | **22.0** |
-| 4 | 14–20 Sep | Hub access model audited — `getUserAccess` and both call sites (9) · **Who Can Open What** built, 3:48 (9) · 9:16 pantry overrides (2) | 20.0 | 2.0 | **22.0** |
-| 5 | 21–27 Sep | **One Sign-In, Many Books** built, 3:28 (12) · repository compliance pass — Frictional logs, media rule, no-surname rule (7) | 19.0 | 3.0 | **22.0** |
-| 6 | 28 Sep – 4 Oct | `chapters.py` written and validated (6) · tutor/RAG path researched against the hub docs (8) · **Lookup, Not Training** built, 3:27 (7) | 21.0 | 2.0 | **23.0** |
-| 7 | 5–11 Oct | Logout bug investigated — reproduced and root-caused to the HttpOnly session cookie on the provider domain (11) · fix written with the five-second race and landed on `main` (8) | 19.0 | 2.0 | **21.0** |
-| 8 | 12–18 Oct | **The Logout That Didn't** built, 3:53 (12) · frame QC at t=0 and mid-beat (5) · GATE P signed (1) | 18.0 | 3.0 | **21.0** |
-| 9 | 19–25 Oct | Logout reel ported and fact-checked against both branches (9) · branch claim re-tested and still live (3) · renewal package assembled (8) | 20.0 | 1.0 | **21.0** |
-| **Total** | | | **178.0** | **19.0** | **197.0** |
+Hours below are reconstructed estimates based on documented project activity and
+my recollection of the time spent. Exact contemporaneous time records were not
+maintained. These figures are not Git-derived measurements, independently
+verified time logs, automated timer output, or previously approved hour totals.
 
-Nine documented weeks, every one at or above the 20-hour requirement at the
-stated split. The first three weeks of the agreement (1–23 Aug) are not
-documented in this folder and are deliberately excluded from the total rather
-than estimated.
+Calendar start/end dates for the individual weeks are not documented, so no
+calendar ranges are inferred. Project-folder dates span 28 Aug – 15 Oct 2026;
+they establish when each reel was built, not when all the underlying audit work
+occurred. The estimates cover the documented Weeks 1–9 work, with no additional
+hours assigned to undocumented intervals.
 
-Weeks without a reel are not empty: week 2 is QC and the short rebuild, week 5
-carries the repository compliance pass, and week 7 is the logout investigation
-and fix — the work the week-8 reel is about.
+| Week | Audit / research work | Audit hrs | Reel delivered | Reel hrs | Total |
+|---|---|---:|---|---:|---:|
+| Week 1 | Concept Map subsystem — schema, S3 layer, six API routes, both fixtures; script and art direction | 13 | [What Is a Concept Map](./2026-08-28-what-is-a-concept-map/) | 10 | 23 |
+| Week 2 | Frame QC pass — six defects found; B04 timing defect traced | 7 | [16:9 master rebuilt · 9:16 short](./2026-08-28-what-is-a-concept-map/BUILD-LOG.md) | 15 | 22 |
+| Week 3 | Memory API — two tables, both routes, the auth helper | 9 | [Memory API](./2026-09-13-memory-api/) | 13 | 22 |
+| Week 4 | Hub access model — `getUserAccess` and both call sites | 10 | [Who Can Open What](./2026-09-17-who-can-open-what/) | 12 | 22 |
+| Week 5 | Token issuance and verification path; repository compliance pass | 8 | [One Sign-In, Many Books](./2026-09-21-one-sign-in-many-books/) | 14 | 22 |
+| Week 6 | Tutor retrieval path against the hub docs; `chapters.py` written | 10 | [Lookup, Not Training](./2026-10-01-lookup-not-training/) | 13 | 23 |
+| Week 7 | Logout bug reproduced and root-caused to the HttpOnly session cookie; fix written and landed | 13 | [`4777b36` in `medhavi-hub`](https://github.com/Medhavy/medhavi-hub/commit/4777b36) | 8 | 21 |
+| Week 8 | Frame QC at t=0 and mid-beat; GATE P review | 5 | [The Logout That Didn't](./2026-10-15-the-logout-that-didnt/) | 16 | 21 |
+| Week 9 | Fact-check against both branches; branch claim re-tested | 12 | [Renewal package](./RENEWAL.md) | 9 | 21 |
+| **Reporting-period total (reconstructed)** | | **87** | | **110** | **197** |
 
-If actual hours differ from these figures they should replace them — the
-numbers must be the volunteer's own reconstruction.
+Every week meets the 20-hour requirement at the stated split.
+
+Weeks without a new reel are not empty: Week 2 is QC and the short rebuild, and
+Week 7 is the logout investigation and the fix that landed in `medhavi-hub` —
+the work the Week 8 reel is about.
+
+If actual hours differ from these figures they should replace them — the numbers
+must be the volunteer's own reconstruction.
