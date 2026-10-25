@@ -16,8 +16,11 @@ Six research-log reels on the Medhavi hub, built between 28 Aug and 15 Oct —
 every one fact-checked against the hub source after filming, and every one
 carrying its own verification trail in the repository.
 
-**Nine weeks, 197 hours** across the reporting period — the split and the
-per-week basis are in [HOURS.md](HOURS.md).
+**Thirteen weeks, 277 hours** across the full agreement period — the per-week
+basis is in [HOURS.md](HOURS.md). The first four weeks, before any reel, were
+spent reading the hub's documentation against its code on the professor's
+direction. That review is where the reels came from: the first four are audits
+of subsystems first read in those weeks.
 
 The through-line is not the videos. It is that **each reel is an audit that
 produced a finding**, and the findings are in the codebase, not just on camera:
@@ -156,11 +159,3 @@ rewritten; weekly hours; a fact-check per reel against a named commit.
 - **Six reels unpublished.**
 - **`docs/how-the-tutor-uses-the-textbook.md` uncommitted**, leaving eight
   Lookup claims unauditable.
-
----
-
-> **Before sending:** the hours in [HOURS.md](HOURS.md) are a reconstruction;
-> replace them if your own records differ. Then delete this block. Per `fellows/README.md`,
-> email the report link to hr@humanitarians.ai and bear@humanitarians.ai before
-> expiration, Monday–Wednesday during business hours. Renewals require approval
-> and agreements are not backdated.
