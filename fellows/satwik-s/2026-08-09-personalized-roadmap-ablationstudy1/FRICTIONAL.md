@@ -11,23 +11,25 @@
 
 ## What I set out to do and why
 
-Tested whether the LLM tagging actually earns its place against a deterministic baseline.
+Tested whether the LLM metadata tagging earns its place against a deterministic baseline.
 
 ## What I did (my contribution)
 
-- Designed the ablation (deterministic rule-based tagger vs a pinned open LLM) and the metrics (field Jaccard, stability, cross-agreement).
-- Chose a reproducible, self-hosted model arm over a hosted API so the methods paper stays replicable.
-- Interpreted the results and framed what the ablation can and cannot conclude.
+- Designed an ablation of the Stage-2 metadata tagger (deterministic rule-based vs a pinned open LLM) and defined the metrics myself: per-field Jaccard, run-to-run stability, cross-tagger agreement, and difficulty agreement.
+- Chose a reproducible, self-hosted model arm (qwen2.5-coder:7b, temperature 0, fixed seed) over a hosted API so both arms are replicable for the paper, and ran the model arm on the Explorer GPU cluster.
+- Ran a seeded 60-section sample at K=3 runs per backend, interpreted the results, and wrote up the ablation stating what it can and cannot conclude.
+- Wrote the week's research report and directed the Brutalist weekly video end to end: the premise and beat sheet, the narration script, the visual plan, the 4K render review, and the PROOF production-gate check before I accepted it.
 
 ## Where it resisted, and what I decided
 
-- The first numbers looked too good; I pushed back on them and found the stability/agreement was inflated by empty-vs-empty field matches.
-- I added a non-empty-restricted metric so the headline figure was not resting on padding.
+- The first stability and agreement numbers looked too good; I was skeptical, dug in, and found they were inflated by empty-vs-empty matches on sparse fields.
+- I added a non-empty-restricted stability metric and found the flagship materials agreement actually rested on only about four to five sections, so I re-framed it as directional, not robust.
 
 ## What Claude contributed (assistant)
 
 - Implemented the metric functions and the comparison script to my design.
-- Ran the paired comparisons and tabulated outputs.
+- Executed the paired runs and tabulated the outputs.
+- Rendered the video scenes and the narration audio, and drafted figures, from my beat sheet and visual plan.
 
 Claude acted as an implementation assistant under my direction. The research questions, the framing, the
 design decisions, the interpretation of results, the faculty collaboration, and the final acceptance of
@@ -35,4 +37,4 @@ every output were mine.
 
 ## Accepted / changed / rejected
 
-I accepted the deterministic baseline as the reproducible default; I flagged the inflated agreement as a caveat rather than reporting it as a win.
+I accepted the deterministic tagger as the reproducible default; I reported the inflated agreement as a caveat rather than a win, and planned a larger re-run to firm it up.
