@@ -94,3 +94,20 @@ I reviewed only Uday Sonawane's two Mycroft submissions: “Energy Recycling in 
 [HOURS.md](HOURS.md) records Week 5 as 15 progress/workflow + 14 STEM = 29 hours and Week 6 as 16 progress/workflow + 14 STEM = 30 hours. These user-supplied 59 hours are added once to the original reconstructed 100-hour subtotal. Cumulative Weeks 1–6 totals are **83 progress/workflow + 76 STEM = 159 hours**. No separate review-work, aspect-ratio or rerender hours are added. Weeks 1–4 remain reconstructed estimates; contemporaneous logging of the newly supplied Week 5–6 hours is not established. The combined total is not an independently verified or exact contemporaneous time log.
 
 The original four narration recordings were approved, but the corrected Week 6 Progress narration and final cuts have no recorded human approval. Technical QC, Google Drive availability, human review, and publication remain separate states. Individual Week 5–6 YouTube URLs and final team approval/publication are not claimed. The historical Weeks 1–4 unmapped-link statements above remain unchanged.
+
+## Week 7 continuation — October 19–25, 2026
+
+This subsequent addendum preserves the original renewal request, dates, prior work and historical totals. It does not assert renewal approval or change the original agreement period. The project records were prepared/finalized October 26; they are not backdated.
+
+I reviewed submissions involving Anjana, Tanmay and Onkar; prepared YouTube titles, descriptions, hashtags and viewer exercises for the four Claude Bear Skills videos; and contacted Sanjana about the proposed Claude Basics playlist. I did not create those four Claude Bear videos. Final team approval, playlist confirmation and publication are not claimed.
+
+I completed my two documented Week 7 projects in landscape and separately reflowed portrait: [How Claude Skills Work: Automation vs. AI Judgment](2026-10-26-how-claude-skills-work/README.md), and [Weekly Progress — Video Reviews, Claude Skills & YouTube Publishing](2026-10-26-weekly-progress-video-reviews-and-claude-skills/README.md). Recorded technical QC passes cover all four existing exports. See [STEM final evidence](2026-10-26-how-claude-skills-work/SUBMISSION.md), [progress final evidence](2026-10-26-weekly-progress-video-reviews-and-claude-skills/SUBMISSION.md), and the [Week 7 report](2026-10-26_week7_update.md) for filenames, dimensions, durations, source links and review boundaries.
+
+| Week 7 evidence | 16:9 | 9:16 |
+|---|---|---|
+| STEM AI | Pending YouTube upload by Deepa | Pending YouTube upload by Deepa |
+| Weekly Progress | Pending YouTube upload by Deepa | Pending YouTube upload by Deepa |
+
+I supplied approximately **28 hours**: reviews 6, publishing preparation 5, research/learning 4, STEM production 6, progress production 4, and GitHub documentation 3. These are estimates based on documented activity and recollection, not exact contemporaneous time logs. [HOURS.md](HOURS.md) groups them as 18 progress/workflow + 10 STEM, counted once across both formats. **159 + 28 = 187 cumulative hours**; progress/workflow **101**, STEM **86**. Prior subtotals are not added again.
+
+Deepa will upload the four videos and provide their URLs. No Week 7 Drive link or final human approval is supplied, and no earlier Drive evidence is attributed to these films.

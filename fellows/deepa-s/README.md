@@ -74,3 +74,13 @@ This later work is separate from the August–September report above. See the [W
 - [Week 6 Progress — Brutalist Production and YouTube Review Support](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/README.md) — includes [YouTube review support](2026-10-18-week-6-progress-learning-brutalist-final-render-and-review-workflow/youtube-review-support/README.md).
 
 All eight masters pass technical QC and are prepared locally. [Shared Google Drive folder](https://drive.google.com/drive/folders/1opTBwRSQ6-XVvomiUUw6-TD0tIwhxMH5) is accessible and lists all eight expected Week 5–6 filenames. Cloud-file hashes have not been verified against the local masters. Final human cut approval is not recorded; the corrected Week 6 Progress narration also awaits human review.
+
+## Week 7 — October 19–25, 2026
+
+- [STEM AI — How Claude Skills Work: Automation vs. AI Judgment](2026-10-26-how-claude-skills-work/README.md) — cinematic landscape and independently reflowed portrait.
+- [Weekly Progress — Video Reviews, Claude Skills & YouTube Publishing](2026-10-26-weekly-progress-video-reviews-and-claude-skills/README.md) — reviews involving Anjana, Tanmay and Onkar, four Claude Bear publishing packages, and coordination with Sanjana.
+- [Week 7 reporting update](2026-10-26_week7_update.md) · [Weekly hours](HOURS.md) · [Renewal continuation](RENEWAL.md).
+
+Both projects retain their October 26 preparation dates; these are not backdated completion dates. All four final exports have recorded technical QC PASS. Each project's 16:9 and 9:16 YouTube link is **Pending YouTube upload by Deepa**. Human approval and publication are not claimed.
+
+Week 7 is approximately **28 hours**, counted once: 18 progress/workflow and 10 STEM for reporting purposes. Cumulative Weeks 1–7: **101 progress/workflow + 86 STEM = 187 hours**. These include historical reconstructed/user-reported estimates, not exact contemporaneous time records. Earlier sections above remain historical.
