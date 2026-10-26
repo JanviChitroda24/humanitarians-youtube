@@ -54,5 +54,3 @@ week. Each week's FRICTIONAL.md records what the hours went to. Details and evid
 ## Open items
 
 - Faculty confirmation of the three-tier prerequisites and the 8 recovered concept-matching items.
-- One Chapter-2 question-title mismatch to reconcile.
-- Decision on whether the collaborators' question text is committed to the repo or kept local.
