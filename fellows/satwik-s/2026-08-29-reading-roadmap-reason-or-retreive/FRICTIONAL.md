@@ -11,23 +11,25 @@
 
 ## What I set out to do and why
 
-Defended the core contribution: the graph constraint, not similarity, is what makes this reasoning.
+Showed that the graph constraint, not similarity, is what makes this reasoning rather than retrieval.
 
 ## What I did (my contribution)
 
-- Articulated and demonstrated the reordering-not-retrieval contribution with the exclusion log as evidence.
-- Used two dissimilar projects (LNP-siRNA vs photothermal) to show genuine personalization (Jaccard divergence).
-- Framed the exclusion of high-similarity-but-off-scope sections as a feature that proves selection over retrieval.
+- Demonstrated the contribution on two dissimilar projects (LNP-siRNA vs photothermal therapy): each produces a visibly different roadmap (section-set Jaccard 0.147), which a similarity ranker cannot do.
+- Used the exclusion log as the evidence that the system selects rather than retrieves: for the LNP project, 1,014 high-similarity sections were deliberately excluded (760 generic-only, 245 over a role cap, 9 similar but sharing no specific vocabulary).
+- Tuned the selection levers (generic-term suppression, a specific-term requirement, role-aware caps, and core-anchoring) so the two projects diverge for real, inspectable reasons.
+- Wrote the week's research report and directed the Brutalist weekly video end to end: the premise and beat sheet, the narration script, the visual plan, the 4K render review, and the PROOF production-gate check before I accepted it.
 
 ## Where it resisted, and what I decided
 
-- Keeping the demo from reading as top-k search required foregrounding the dependency ordering and the exclusions.
-- Tuning the selection levers so two projects diverge meaningfully took iteration.
+- Keeping the demo from reading as top-k search meant foregrounding the dependency ordering and the exclusions rather than the similarity scores.
+- Getting two projects to diverge meaningfully without breaking either required iterating on the levers.
 
 ## What Claude contributed (assistant)
 
 - Produced the two demo roadmaps and the exclusion analysis from my design.
 - Drafted the comparison visuals.
+- Rendered the video scenes and the narration audio, and drafted figures, from my beat sheet and visual plan.
 
 Claude acted as an implementation assistant under my direction. The research questions, the framing, the
 design decisions, the interpretation of results, the faculty collaboration, and the final acceptance of
@@ -35,4 +37,4 @@ every output were mine.
 
 ## Accepted / changed / rejected
 
-I accepted the exclusion log as core evidence; I rejected framings that reduced the system to retrieval.
+I accepted the exclusion log as core paper evidence; I rejected any framing that reduced the system to retrieval.
