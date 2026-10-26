@@ -11,23 +11,25 @@
 
 ## What I set out to do and why
 
-Ran the tagging ablation across the whole book and stated honestly what it decides.
+Scaled the tagging ablation to the whole book and stated honestly what it decides.
 
 ## What I did (my contribution)
 
-- Scaled the ablation to the full 38-chapter book and the four appendices.
-- Drew the line between what the ablation settles (reproducibility; that tagger choice changes ~74% of the roadmap) and what it does not (which tagger is correct).
-- Identified that deciding quality needs a gold standard, setting up the next week.
+- Scaled the ablation to the full book: all 1,340 sections tagged by both taggers, with the LLM pass run across resumed GPU-cluster sessions.
+- Measured the real stakes: at full scale the materials-tag agreement held up (Jaccard 0.919, recall 0.921 over 102 sections), but tagger choice changes about 74% of a student's reading list (roadmap Jaccard 0.257 on both demo projects).
+- Drew the honest boundary: the ablation settles reproducibility and that the choice matters, but not which tagger is correct, which needs a gold standard.
+- Wrote the week's research report and directed the Brutalist weekly video end to end: the premise and beat sheet, the narration script, the visual plan, the 4K render review, and the PROOF production-gate check before I accepted it.
 
 ## Where it resisted, and what I decided
 
-- 'Deterministic is free' was too simple; I corrected the claim once the full-book run showed the taggers are reproducible but not equivalent.
-- Kept the narrative honest about what remained undecided.
+- My earlier 'deterministic is basically free' line was too simple; the full-book run showed the taggers are reproducible but not equivalent, so I corrected the claim.
+- I kept the narrative explicit about what remained undecided rather than overclaiming a winner.
 
 ## What Claude contributed (assistant)
 
 - Ran the full-book tagging passes and the downstream-impact comparison.
-- Drafted tables from the runs.
+- Drafted the result tables from the runs.
+- Rendered the video scenes and the narration audio, and drafted figures, from my beat sheet and visual plan.
 
 Claude acted as an implementation assistant under my direction. The research questions, the framing, the
 design decisions, the interpretation of results, the faculty collaboration, and the final acceptance of
@@ -35,4 +37,4 @@ every output were mine.
 
 ## Accepted / changed / rejected
 
-I accepted the reproducibility conclusion; I rejected any quality verdict without a gold set.
+I accepted the reproducibility-and-impact conclusion; I rejected naming a better tagger without truth to measure against.
