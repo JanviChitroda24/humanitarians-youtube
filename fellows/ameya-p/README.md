@@ -5,7 +5,9 @@
 **GitHub:** [@AmeyaPadwad](https://github.com/AmeyaPadwad/)  
 **Organization:** Humanitarians AI (Iacon Optimus Program)  
 **Collaborative Project Repository:** [AmeyaPadwad/fine_tuner](https://github.com/AmeyaPadwad/fine_tuner)  
-**Video Drive:** [RL_Environment_AmeyaPadwad](https://drive.google.com/drive/folders/1gH4FUFMF_hLI9aItdn7q8SeatKn2BRNc)
+**Video Drive:** [RL_Environment_AmeyaPadwad](https://drive.google.com/drive/folders/1gH4FUFMF_hLI9aItdn7q8SeatKn2BRNc)  
+**Hours Log:** [Weekly Hours](HOURS.md)  
+**Renewal Request:** [Renewal Request](renewal-requests/2026-10-26-renewal-request.md)
 
 ## What's in this folder
 
