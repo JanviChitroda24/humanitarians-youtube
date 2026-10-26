@@ -15,19 +15,21 @@ Ran the full evaluation pipeline: the MCQ gate with item pools and prune-after-e
 
 ## What I did (my contribution)
 
-- Specified the end-to-end evaluation pipeline and the gate semantics (advance / hold / remediate).
-- Defined item pools with deterministic per-student sampling and the open-ended grading seam.
-- Set the reporting so the gate's decisions are inspectable.
+- Built the end-to-end evaluation engine: the MCQ gate running prune-after-evaluate over the prerequisite graph, emitting an advance / hold / remediate decision plus the specific prerequisite to remediate to.
+- Added item pools with deterministic per-student sampling (different students get different questions from the same approved pool) and an open-ended grading seam (defer by default, with keyword and LLM-judge options).
+- Made the gate's decisions inspectable with a readable trace and the gate_result and responses CSV artifacts.
+- Wrote the week's research report and directed the Brutalist weekly video end to end: the premise and beat sheet, the narration script, the visual plan, the 4K render review, and the PROOF production-gate check before I accepted it.
 
 ## Where it resisted, and what I decided
 
-- Deciding how the gate reports a gap (remediate-to the specific missing prerequisite) took design.
-- Keeping the open-ended path honest (defer to a judge rather than fake-grade) mattered.
+- Deciding how the gate reports a gap (remediate to the exact missing prerequisite, not just 'fail') took design.
+- Keeping the open-ended path honest (defer to a real judge rather than fake-grade free text offline) mattered for credibility.
 
 ## What Claude contributed (assistant)
 
 - Implemented the evaluation engine and the CSV artifacts to my spec.
-- Produced the readable trace and example run.
+- Produced the readable trace and the example run.
+- Rendered the video scenes and the narration audio, and drafted figures, from my beat sheet and visual plan.
 
 Claude acted as an implementation assistant under my direction. The research questions, the framing, the
 design decisions, the interpretation of results, the faculty collaboration, and the final acceptance of
@@ -35,4 +37,4 @@ every output were mine.
 
 ## Accepted / changed / rejected
 
-I accepted the defer-by-default open grader; I rejected pretending to grade free text offline.
+I accepted defer-by-default open grading; I rejected pretending to grade free text without a judge.
