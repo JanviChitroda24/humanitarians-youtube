@@ -1,11 +1,10 @@
----
-# Satwik S
+# Satwik Reddy Sripathi
 
-**Role:** Research Data Scientist
-**Project:** Personalized, Project-Driven Reading Roadmaps (CaNCURE)
-**Group:** Medhavy team
-**GitHub:** [@SatwikReddySripathi](https://github.com/SatwikReddySripathi)
-**Supervision:** Prof. Nik Bear Brown and Dr. Evin Gultepe
+**Role:** Research Data Scientist<br>
+**Project:** Personalized, Project-Driven Reading Roadmaps (CaNCURE)<br>
+**Group:** Medhavy team<br>
+**GitHub:** [@SatwikReddySripathi](https://github.com/SatwikReddySripathi)<br>
+**Supervision:** Prof. Nik Bear Brown and Dr. Evin Gultepe<br>
 **Last updated:** October 26, 2026
 
 > This folder contains my work as an HAI fellow. I am building a personalized, project-driven reading-roadmap
@@ -80,7 +79,7 @@ direction, design decisions, interpretation, and faculty collaboration were mine
 - Complete the faculty review loop on the three-tier prerequisites and the recovered concept-matching items.
 - Wire the verified tiers and questions into the gate so it runs on the approved structure.
 - Continue generating one Brutalist weekly research video per week.
-- Complete the builing and write a research paper
+- Publish a research paper
 
 ## Frictional Log Policy
 
